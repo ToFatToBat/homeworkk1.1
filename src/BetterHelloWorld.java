@@ -1,2 +1,2 @@
-public class BetterHelloWorld {
+public class BetterHelloWorld1 {
 }
